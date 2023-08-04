@@ -8,3 +8,6 @@ Step 4: Activate environment by command as follows- conda activate
 Step 5: Use command below to install required dependencies- python -m pip install -r requirements.txt 
 Step 6: Run application by command; python app.py You will get url copy it and paste in browser. 
 Step 7: You have sample_data folder where you can get images to test.
+
+![pan_card](https://github.com/samagra44/Pan_Card_Fraud_Detection-/assets/77968722/ba21288c-af65-4897-bbf4-e87e77ada62c)
+
