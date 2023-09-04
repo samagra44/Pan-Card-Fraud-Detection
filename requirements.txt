@@ -1,0 +1,5 @@
+skimage
+imutils
+cv2
+PIL
+requests
