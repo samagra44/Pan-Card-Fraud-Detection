@@ -1,6 +1,6 @@
 # Pan_Card_Fraud_Detection-
 
-Step to run application: 
+Step to run application:    
 Step 1: Create the copy of the project.     
 Step 2: Open command prompt and change your current path to folder where you can find 'app.py' file.    
 Step 3: Create environment by command given below- conda create -name     
